@@ -1,4 +1,4 @@
-# 🚀 Blastar ( By Elon Musk) Remake
+# 🚀 Blastar (By Elon Musk) Remake
 
 A modern remake of **Elon Musk's first game**, *Blastar* (1984), created with **Python** and **Pygame**.
 
